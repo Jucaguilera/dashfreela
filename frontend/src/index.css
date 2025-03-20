@@ -1,0 +1,15 @@
+@import "@fontsource/inter"; /* 🔥 Importando a fonte Inter */
+
+body {
+  margin: 0;
+  font-family: "Inter", sans-serif; /* 🔥 Aplicando a nova fonte */
+  background-color: #f8f9fa; /* 🔥 Fundo clean */
+  color: #333; /* 🔥 Cor do texto mais equilibrada */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}
+
